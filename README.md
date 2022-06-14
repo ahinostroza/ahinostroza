@@ -1,4 +1,4 @@
-## Hola, soy Angel Hinostroza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hola, soy Angel Hinostroza 👋
 
 <a href="https://www.facebook.com/ahinostrozac">
   <img align="left" alt="Angel Hinostroza | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/ah.calderon/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a
-<a href="https://www.linkedin.com/in/angel-jose-hinostroza-calderon-403a3ba3/">
+<a href="https://www.linkedin.com/in/angelhinostroza/">
   <img align="left" alt="Angel Hinostroza | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/id/angelhinostroza/">
@@ -29,7 +29,7 @@ cosas que construyo.
 - 👨🏻‍💻 Actualmente estoy trabajando en el desarrollo de páginas e-commerce
 - 🚀 Actualmente estoy estudiando para volverme un desarrollador fullstack
 - 📝 Muy pronto empezaré a escribir mis propios blogs
-- 📫 Algún trabajo freelance? Contáctame al correo: angel.hinostroza@icloud.com
+- 📫 Algún trabajo freelance? Contáctame al correo: tromepop@gmail.com
 - 💬 Si tienes alguna duda, no olvides en preguntarme
 
 ### 🔧 Tecnologías y Herramientas
