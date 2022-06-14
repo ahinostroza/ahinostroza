@@ -1,16 +1,10 @@
 ## Hola, soy Angel Hinostroza 👋
 
-<a href="https://www.facebook.com/ahinostrozac">
-  <img align="left" alt="Angel Hinostroza | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 <a href="https://www.instagram.com/ah.calderon/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a
 <a href="https://www.linkedin.com/in/angelhinostroza/">
   <img align="left" alt="Angel Hinostroza | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://steamcommunity.com/id/angelhinostroza/">
-  <img align="left" alt="Angel Hinostroza | Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/steam.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahinostroza.ahinostroza)
