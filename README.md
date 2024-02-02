@@ -11,7 +11,7 @@
 
 **¡Me alegro de verte aquí!**
 
-Soy desarrollador de software, tengo 26 años de edad y 3 años de experiencia en todo lo que es desarrollo web. Mi nacionalidad es peruano, vivo en Huacho y actualmente trabajo en Pragma.
+Soy desarrollador de software, tengo 27 años de edad y 4 años de experiencia en todo lo que es desarrollo web. Mi nacionalidad es peruano, vivo en Huacho y actualmente trabajo en Pragma.
 
 Me interesa mucho todo lo relacionado con la tecnología y mi pasión por la programación es lo que me hace entusiasta a ser una persona autodidacta, cuidando mucho la calidad de las
 cosas que construyo.
