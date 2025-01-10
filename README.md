@@ -1,12 +1,4 @@
 ## Hola, soy Angel Hinostroza 👋
-
-<a href="https://www.instagram.com/ah.calderon/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a
-<a href="https://www.linkedin.com/in/angelhinostroza/">
-  <img align="left" alt="Angel Hinostroza | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=ahinostroza.ahinostroza)
 
 **¡Me alegro de verte aquí!**
