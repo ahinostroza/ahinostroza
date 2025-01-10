@@ -1,6 +1,4 @@
 ## Hola, soy Angel Hinostroza 👋
-![](https://visitor-badge.glitch.me/badge?page_id=ahinostroza.ahinostroza)
-
 **¡Me alegro de verte aquí!**
 
 Soy desarrollador de software, tengo 27 años de edad y 4 años de experiencia en todo lo que es desarrollo web. Mi nacionalidad es peruano, vivo en Huacho y actualmente trabajo en Pragma.
